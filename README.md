@@ -19,9 +19,9 @@ Mount Litera Zee School, Telangana
 Percentage: 78.6%
 
 # Technical Skills
-Languages: Python, Java, JavaScript, C++
+Languages: Python, Java, JavaScript, 
 
-Web Technologies: HTML, CSS, SQL, React.js
+Web Technologies: HTML, CSS, SQL,
 
 Frameworks/Libraries: OpenCV, TensorFlow, NumPy, Pandas
 
@@ -65,6 +65,8 @@ Database Management Systems — CodeChef
 Full Stack Web Development Bootcamp — Udemy
 
 AI Tools Workshop — WorkShop
+
+Full Stack Java - Wipro
 
 # Contact
 ## Email: (7695.revanthreddyadulla@gmail.com)
